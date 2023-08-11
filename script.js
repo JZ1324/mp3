@@ -201,7 +201,7 @@ let drawVisual = null
 const processAudio = mp3 => {
   let audio = null
   if(mp3 === 'default'){
-    audio = new Audio('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1468070/Boost.mp3')
+    audio = new Audio('https://jz1324.github.io/mp3/Worship')
     audio.crossOrigin = 'anonymous'
   }
   else{
