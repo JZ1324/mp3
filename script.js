@@ -17,12 +17,12 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
-          favorited: false
+          name: "Deep Dive",
+          artist: "SEU Worship, Sydney James",
+          cover: "https://i.imgur.com/5lS9EJI.png",
+          source: "https://jz1324.github.io/mp3/Worship/Deep%20Dive.mp3",
+          url: "https://www.youtube.com/watch?v=-XUvclMGnlk&pp=ygUNZGVlcCBkaXZlIHNldQ%3D%3D",
+          favorited: true
         },
         {
           name: "Everybody Knows",
